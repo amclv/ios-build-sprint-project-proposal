@@ -10,7 +10,7 @@
 2. App Name: `Inside Mortgage Calculator`
 3. App Description (3-5 sentences):
 
-    `Working..`
+    `This application help's adults that are looking to purchase and/or refinance there house. When using this app you will experience a very minimal simplistic design that will bring the joy of calculating your next or current home loan. As you start the application you will be created with a beautiful layout that presents a graph to indicate what you are to make on interest and principle. It will fluxuate based on the information you provide to the app!`
     
 4. Your #1 Customer (Who would use your app? Why now?)
  
