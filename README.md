@@ -6,18 +6,18 @@
 
 ## Requirements
 
-1. Team Members: `<Who's working on this app?>`
-2. App Name: `<What's the app name?>`
+1. Team Members: `Aaron Cleveland`
+2. App Name: `Inside Mortgage Calculator`
 3. App Description (3-5 sentences):
 
-    `<Explain your app to your Grandma (or a 5-year old child)>`
+    `Working..`
     
 4. Your #1 Customer (Who would use your app? Why now?)
  
-    `<Be specific and focus on a real person>`
+    `Grant Cardone, he is a multi-millionair that works with multiple housing and apartment contracts`
     
-5. Github code repository: `<Create a Github Project>`
-6. Github Project/Trello Board: `<Post your link to your Kanban board>`
+5. Github code repository: `https://github.com/amclv/Inside-Mortgage-Calculator`
+6. Github Project/Trello Board: `https://trello.com/invite/b/ccWc1xR5/bbd54aa68b1a1d5c42da0616d0e0e0b6/home-mortgage-calculator`
 7. Create a Slack DM Group with your partner, TL, and Instructor and say "hi!"
 
 ## Part 1: Brainstorming
